@@ -56,16 +56,6 @@ The dataset comprises unaltered text from Sherlock Holmes stories, formatted for
    python predict.py "Your input text here"
    ```
 
-## 📈 Results
-
-The model achieves an accuracy of approximately 72% on the validation set, demonstrating its ability to predict the next word in a sequence.
-
-## 🔄 Future Improvements
-
-* Implementing a Bidirectional LSTM to capture context from both directions.
-* Incorporating attention mechanisms to focus on relevant parts of the input sequence.
-* Fine-tuning hyperparameters for improved performance.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
